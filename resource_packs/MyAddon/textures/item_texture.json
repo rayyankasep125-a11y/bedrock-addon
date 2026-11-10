@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "MyAddon RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "fight1": {
+      "textures": "textures/items/apple"
+    }
+  }
+}
