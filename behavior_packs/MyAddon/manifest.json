@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MyAddon BP",
+    "description": "Behavior Pack",
+    "uuid": "8c2f6d91-4b37-4f82-9a15-6e0d3c7b1a54",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3a7e1c54-9d26-4b80-bf13-2e6a5c9d7041",
+      "version": [1, 0, 0]
+    }
+  ]
+}
